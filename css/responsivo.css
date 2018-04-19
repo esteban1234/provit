@@ -1,0 +1,510 @@
+@media screen and (max-width: 480px){
+/*******************INCIA INICIO****************************/
+	
+	.delete-br{
+		display: none;
+	}
+
+	.navbar-header{
+		margin: auto !important;
+	}
+
+	.logo{
+		position: absolute;
+		top: 20px;
+		left: 40px;
+		width: 100px;
+	}
+
+	.nav li{
+		display: block;
+	}
+
+	.nav li a{
+		display: block;
+	}
+
+	.cont-logtext{
+		overflow: hidden;
+	}
+
+	.texth{
+		padding: 0px !important;
+		font-size: 23px;
+		font-weight: bold;
+		text-align: center;
+	}
+
+	.navbar{
+		padding: 0px !important;
+	}
+
+	.tit-ac{
+		font-size: 22px;
+		font-weight: bold;
+	}
+
+	.tit-ach2{
+		text-align: center;
+		font-weight: bold;
+		font-size: 22px;
+	}
+
+	.texto{
+		text-align: justify;
+	}
+
+	.textoconten1{
+		width: 95%;
+		font-size: 23px;
+	}
+
+	.iconos{
+		width: 100%;
+		margin: 10px auto;
+	}
+
+	.iconos i{
+		font-size: 85px;
+	}
+
+	.iconos p{
+		font-weight: bold;
+		font-size: 20px;
+	}
+
+/*******************END INICIO******************************/
+
+/*******************INCIA NOSOTROS****************************/
+.quehacemos p{
+	width: 85%;
+	text-align: justify;
+	font-size: 18px;
+}
+
+.tit, .tit2, .tit22{
+	font-size: 25px;
+	text-align: center;
+}
+
+
+.sub, .subtit2{
+	text-align: justify;
+	margin: 0px !important;
+}
+
+.tit22{
+	display: block;
+}
+
+.tit2{
+	display: none;
+}
+/*******************END NOSOTROS******************************/
+
+/*******************INCIA SERVICIOS****************************/
+	.h1por{
+		font-size: 23px;
+		font-weight: bold;
+	}
+
+	.box-icon span{
+		font-size: 40px;
+	}
+
+	.info h4{
+		font-size: 20px;
+	}
+
+	.columna{
+		height: 100%;
+	}
+
+	.iconoss img{
+		width: 60px;
+	}
+
+	.titflush{
+		font-size: 20px;
+		font-weight: bold;
+	}
+
+	.subtitflush{
+		text-align: justify;
+	}
+/*******************END SERVICIOS******************************/
+
+/*******************INCIA CONTACTO****************************/
+	.h2fc{
+		font-size: 22px;
+		font-weight: bold;
+	}
+/*******************END CONTACTO******************************/
+
+/*******************INCIA FOOTER****************************/
+	footer{
+		height: 100%;
+	}
+
+	footer p{
+		width: 100% !important;
+		font-size: 16px;
+		padding: 0px 15px !important;
+		margin-bottom: 10px;
+		width: 95%;
+		padding: 0px;
+	}
+/*******************END FOOTER******************************/
+}
+
+@media screen and (max-width: 599px) and (min-width: 481px) {
+/*******************INCIA INICIO****************************/
+	
+	.delete-br{
+		display: none;
+	}
+
+	.navbar-header{
+		margin: auto !important;
+	}
+
+	.logo{
+		position: absolute;
+		top: 20px;
+		left: 40px;
+		width: 100px;
+	}
+
+	.nav li{
+		display: block;
+	}
+
+	.nav li a{
+		display: block;
+	}
+
+	.cont-logtext{
+		overflow: hidden;
+	}
+
+	.texth{
+		padding: 0px !important;
+		font-size: 23px;
+		font-weight: bold;
+		text-align: center;
+		float: none !important;
+		margin: auto;
+	}
+
+	.navbar{
+		padding: 0px !important;
+	}
+
+	.tit-ac{
+		font-size: 22px;
+		font-weight: bold;
+	}
+
+	.tit-ach2{
+		text-align: center;
+		font-weight: bold;
+		font-size: 22px;
+	}
+
+	.texto{
+		text-align: justify;
+	}
+
+	.textoconten1{
+		width: 95%;
+		font-size: 23px;
+	}
+
+	.iconos{
+		width: 100%;
+		margin: 10px auto;
+	}
+
+	.iconos i{
+		font-size: 85px;
+	}
+
+	.iconos p{
+		font-weight: bold;
+		font-size: 20px;
+	}
+
+/*******************END INICIO******************************/
+
+/*******************INCIA NOSOTROS****************************/
+.quehacemos p{
+	width: 85%;
+	text-align: justify;
+	font-size: 18px;
+}
+
+.tit, .tit2, .tit22{
+	font-size: 25px;
+	text-align: center;
+}
+
+
+.sub, .subtit2{
+	text-align: justify;
+	margin: 0px !important;
+}
+
+.tit22{
+	display: block;
+}
+
+.tit2{
+	display: none;
+}
+/*******************END NOSOTROS******************************/
+
+/*******************INCIA SERVICIOS****************************/
+	.h1por{
+		font-size: 23px;
+		font-weight: bold;
+	}
+
+	.box-icon span{
+		font-size: 40px;
+	}
+
+	.info h4{
+		font-size: 20px;
+	}
+
+	.columna{
+		height: 100%;
+	}
+
+	.iconoss img{
+		width: 60px;
+	}
+
+	.titflush{
+		font-size: 20px;
+		font-weight: bold;
+	}
+
+	.subtitflush{
+		text-align: justify;
+	}
+/*******************END SERVICIOS******************************/
+
+/*******************INCIA CONTACTO****************************/
+	.h2fc{
+		font-size: 22px;
+		font-weight: bold;
+	}
+/*******************END CONTACTO******************************/
+
+/*******************INCIA FOOTER****************************/
+	footer{
+		height: 100%;
+	}
+
+	footer p{
+		width: 100% !important;
+		font-size: 16px;
+		padding: 0px 15px !important;
+		margin-bottom: 10px;
+		width: 95%;
+		padding: 0px;
+	}
+/*******************END FOOTER******************************/
+}
+
+@media screen and (max-width: 799px) and (min-width: 600px) {
+	/*******************INCIA INICIO****************************/
+	
+	.delete-br{
+		display: none;
+	}
+
+	.navbar-header{
+		margin: auto !important;
+	}
+
+	.logo{
+		position: absolute;
+		top: 20px;
+		left: 40px;
+		width: 100px;
+	}
+
+	.nav li{
+		display: block;
+	}
+
+	.nav li a{
+		display: block;
+	}
+
+	.cont-logtext{
+		overflow: hidden;
+	}
+
+	.texth{
+		padding: 0px !important;
+		font-size: 23px;
+		font-weight: bold;
+		text-align: center;
+		float: none !important;
+		margin: auto;
+	}
+
+	.navbar{
+		padding: 0px !important;
+	}
+
+	.tit-ac{
+		font-size: 22px;
+		font-weight: bold;
+	}
+
+	.tit-ach2{
+		text-align: center;
+		font-weight: bold;
+		font-size: 22px;
+	}
+
+	.texto{
+		text-align: justify;
+	}
+
+	.textoconten1{
+		width: 95%;
+		font-size: 23px;
+	}
+
+	.iconos{
+		width: 100%;
+		margin: 10px auto;
+	}
+
+	.iconos i{
+		font-size: 85px;
+	}
+
+	.iconos p{
+		font-weight: bold;
+		font-size: 20px;
+	}
+
+	.cont-se, .cont-nos{
+		padding: 40px 0px !important;	
+	}
+
+
+	.cont-se .container{
+		/*border: 2px solid green;*/
+	}
+
+/*******************END INICIO******************************/
+
+/*******************INCIA NOSOTROS****************************/
+.quehacemos p{
+	width: 85%;
+	text-align: justify;
+	font-size: 18px;
+}
+
+.tit, .tit2, .tit22{
+	font-size: 25px;
+	text-align: center;
+}
+
+
+.sub, .subtit2{
+	text-align: justify;
+	margin: 0px !important;
+}
+
+.tit22{
+	display: block;
+}
+
+.tit2{
+	display: none;
+}
+/*******************END NOSOTROS******************************/
+
+/*******************INCIA SERVICIOS****************************/
+	.h1por{
+		font-size: 23px;
+		font-weight: bold;
+	}
+
+	.box-icon span{
+		font-size: 40px;
+	}
+
+	.info h4{
+		font-size: 20px;
+	}
+
+	.columna{
+		height: 100%;
+	}
+
+	.iconoss img{
+		width: 60px;
+	}
+
+	.titflush{
+		font-size: 20px;
+		font-weight: bold;
+	}
+
+	.subtitflush{
+		text-align: justify;
+	}
+/*******************END SERVICIOS******************************/
+
+/*******************INCIA CONTACTO****************************/
+	.h2fc{
+		font-size: 22px;
+		font-weight: bold;
+	}
+/*******************END CONTACTO******************************/
+
+/*******************INCIA FOOTER****************************/
+	footer{
+		height: 100%;
+	}
+
+	footer p{
+		width: 100% !important;
+		font-size: 16px;
+		padding: 0px 15px !important;
+		margin-bottom: 10px;
+		width: 95%;
+		padding: 0px;
+	}
+/*******************END FOOTER******************************/
+
+}
+
+@media screen and (max-width: 1023px) and (min-width: 800px) {
+	/*.logo{
+	}	*/
+
+	.texth{
+		width: 72%;
+		font-size: 25px;
+		text-align: center;
+	}
+}
+
+@media screen and (max-width: 1280px) and (min-width: 1024px) {      /* mac*/
+	.cont-ich{
+		padding: 40px 0px !important;
+	}
+}
+@media screen and (max-width: 1366px) and (min-width: 1024px) { }
+
+@media screen and (min-width: 1367px) { }

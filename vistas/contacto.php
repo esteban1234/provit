@@ -59,8 +59,8 @@
                 </div>
             </div>
         </div>
-
-        <div class="col-xs-12 col-sm-12 col-md-3">
+        <div class="clearfix visible-sm"></div>
+        <div class="col-xs-12 col-sm-6 col-md-3">
             <div class="box">
                 <div class="box-icon">
                     <span class="fa fa-4x fa-phone"></span>
@@ -71,7 +71,7 @@
                 </div>
             </div>
         </div>
-        <div class="col-xs-12 col-sm-12 col-md-3">
+        <div class="col-xs-12 col-sm-6 col-md-3">
             <div class="box">
                 <div class="box-icon">
                     <span class="fa fa-4x fa-envelope"></span>
@@ -85,7 +85,7 @@
 </article>
 
 <div class='container' style="margin-top: 5%;">
-<h2 style="color: #811B31; text-align: center; margin-bottom: 3%;">Formulario de contacto</h2>
+<h2 class="h2fc" style="color: #811B31; text-align: center; margin-bottom: 3%;">Formulario de contacto</h2>
     <div class='row'>
         <div class='col-sm-12 col-md-10 col-md-offset-1'>
             <div class='well'>
@@ -111,7 +111,7 @@
                                 <textarea class='form-control' id="txtCOMENTARIO" name='message' rows='10'></textarea>
                             </div>
 
-                                                        <div id="_AJAX_PRE_"></div>
+                            <div id="_AJAX_PRE_"></div>
                             <div class='text-right'>
                                 <input type='submit' class='btn btn-success' onclick="sendCORREO()" value='ENVIAR' />
                             </div>

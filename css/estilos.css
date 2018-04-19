@@ -244,11 +244,16 @@ footer p{
   font-family: 'Do Hyeon', sans-serif;
   color: #FFF;
 }
-.tit2{
+.tit2, .tit22{
   font-size: 70px;
   font-family: 'Do Hyeon', sans-serif;
   color: #0A5A53;
 }
+
+.tit22{
+  display: none;
+}
+
 .subtit2{
   font-size: 18px;
   font-family: 'Roboto', sans-serif;

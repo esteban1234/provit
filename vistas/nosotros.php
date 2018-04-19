@@ -42,12 +42,12 @@
     </p>
 </div>
 
-<div class="section" style="padding:5%; background: #0A5A53;">
+<div class="section cont-nos" style="padding:5%; background: #0A5A53;">
       <div class="container">
-        <div class="row">
-          <div class="col-sm-6 col-md-6"><p class="tit">MISION</p></div>
-          <div class="col-sm-6 col-md-6">
-            <p class="subtit">
+        <div class="row row-tit">
+          <div class="col-xs-12 col-sm-6 col-md-6"><p class="tit">MISION</p></div>
+          <div class="col-xs-12 col-sm-6 col-md-6">
+            <p class="subtit sub">
               Contribuir al desarrollo de nuestra empresa en beneficio de nuestros clientes, adaptándonos a las innovaciones en el mercado e ir por el camino de la creación de más y mejores empresas, al apoyar las iniciativas de emprendedores para crear nuevos negocios.
             </p>
           </div>
@@ -55,10 +55,10 @@
       </div>
 </div>
 
-<div class="section" style="padding:5%;" >
+<div class="section cont-nos" style="padding:5%;" >
       <div class="container">
         <div class="row">
-          
+          <div class="col-sm-6 col-md-6 cont-titv2"><p class="tit22">VISION</p></div>
           <div class="col-sm-6 col-md-6">
             <p class="subtit2">
               Convertirnos en un referente de consultoría acompañando el proceso de transformación de las empresas a la nueva economía, tanto en la creación de formas innovadoras de comunicarse con sus clientes como en mejorar la dinámica de sus procesos operacionales.
@@ -69,7 +69,7 @@
       </div>
     </div>
 
-    <div class="section cont-ich" style="padding:5%; background: #0A5A53;">
+    <div class="section cont-ich cont-nos" style="padding:5%; background: #0A5A53;">
       <div class="container">
         <div class="row">
           <div class="col-sm-6 col-md-6"><p class="tit">VALORES</p></div>

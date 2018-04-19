@@ -25,7 +25,7 @@
     </div>
 </nav>
 
-<div class="">
+<div class="cont-logtext">
   <figure class="logo pull-left">
     <img src="img/provit.png" alt="PROVIT" class="img-responsive">
   </figure>
@@ -33,22 +33,20 @@
 </div>
 </div>
 
-<div class="section" style="padding:5%;">
+<div class="section cont-se" style="padding:5%;">
       <div class="container">
-        <h1 class="text-center" style="color: #03636B;"><i class="fas fa-book"></i> ASESORIA Y CONSULTORIA</h1> <br><br>
+        <h1 class="text-center tit-ac" style="color: #03636B;"><i class="fas fa-book"></i> ASESORIA Y CONSULTORIA</h1> <br class="delete-br"><br class="delete-br">
         <div class="row">
           <div class="col-md-4 col-md-offset-2">
-            <div class="imagen">
-              <!-- <img src="img/uno.jpg" class="img-responsive"> -->
-            </div>
-            <h2>Asesoria</h2>
+            <div class="imagen"></div>
+            <h2 class="tit-ach2">Asesoria</h2>
             <p class="texto">Es un servicio profesional, que orienta al directivo de una organización. Es una guía de expertos que responde a dudas específicas, resuelve problemas concretos y apoya a las organizaciones en los trámites necesarios para su operación.</p>
           </div>
           <div class="col-md-4">
             <div class="imagen2">
               <!-- <img src="img/uno.jpg" class="img-responsive"> -->
             </div>
-            <h2>Consultoria</h2>
+            <h2 class="tit-ach2">Consultoria</h2>
             <p class="texto">Es un servicio profesional especializado que puede ayudar a la dirección general de las organizaciones a enfrentar situaciones que impiden la operación plena del negocio.</p>
           </div>
 
