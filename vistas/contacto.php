@@ -85,7 +85,7 @@
 </article>
 
 <div class='container' style="margin-top: 5%;">
-<h2 class="h2fc" style="color: #811B31; text-align: center; margin-bottom: 3%;">Formulario de contacto</h2>
+<h2 class="h2fc" style="color: #034833; text-align: center; margin-bottom: 3%;">Formulario de contacto</h2>
     <div class='row'>
         <div class='col-sm-12 col-md-10 col-md-offset-1'>
             <div class='well'>

@@ -42,7 +42,7 @@
     </p>
 </div>
 
-<div class="section cont-nos" style="padding:5%; background: #0A5A53;">
+<div class="section cont-nos" style="padding:5%; background: #034833;">
       <div class="container">
         <div class="row row-tit">
           <div class="col-xs-12 col-sm-6 col-md-6"><p class="tit">MISION</p></div>
@@ -69,7 +69,7 @@
       </div>
     </div>
 
-    <div class="section cont-ich cont-nos" style="padding:5%; background: #0A5A53;">
+    <div class="section cont-ich cont-nos" style="padding:5%; background: #07574B;">
       <div class="container">
         <div class="row">
           <div class="col-sm-6 col-md-6"><p class="tit">VALORES</p></div>
